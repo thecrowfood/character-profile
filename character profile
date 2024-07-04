@@ -6,19 +6,16 @@
    
     <div class="col-lg-6">
      <div style="height:300px;width:300px;border:5px solid #ccc;font:16px/26px Serif;overflow:auto;">
-      arghhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-      what am i doing
-      i dont even know
-      help
+      within these boxes, i need to make smaller boxes.  these smaller boxes will have information about the character in other timelines.
+      to the right of the smaller boxes, i will also put an image.  if the other versions of the character are important enough to have their own character page,
+      it should link there.
     </div>    
     </div>
    
     <div class="col-lg-6">
      <div style="height:300px;width:300px;border:5px solid #ccc;font:16px/26px Serif;overflow:auto;">
-      arghhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-      what am i doing
-      i dont even know
-      help
+      this box will use the exact same code as the other one, it will just be used for a different purpose.  this box will show other characters that this one
+      has a relationship with.  the smaller text boxes will give a description of how they know each other etc. and an image like the other column.
       </div>
     </div>
    
