@@ -1,15 +1,24 @@
 <!DOCTYPE html>
 <html> 
 
+
+<div class="container" style="max-width: 1000px">
+<div class="row">
+<div class="col-lg-6"
+
 <div style="height:300px;width:500px;border:1px solid #ccc;font:16px/26px Serif;overflow:auto;">
 arghhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 what am i doing
 i dont even know
 help
-ehuihhhdoidhqofhqfhqhqbowbvowvbowvbwovbw
-wvbwovwovbwovbwovbwvbwiv
-wdivwovbwovbwivbwovbwvbwo
-evibwovwovwvqihovbovbw
-newuvovhevnwovbwovqbo
-vneovhowvbwbvwvbwvbjvbwl
+</div>
+</div>
+
+<div class="col-lg-6"
+<div style="height:300px;width:500px;border:1px solid #ccc;font:16px/26px Serif;overflow:auto;">
+arghhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+what am i doing
+i dont even know
+help
+</div>
 </div>
