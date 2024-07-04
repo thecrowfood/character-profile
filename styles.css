@@ -1,0 +1,1 @@
+.container { display: flex; flex-wrap: wrap; } .col-lg-6 { flex: 1; padding: 10px; } .box { height: 300px; width: 300px;border: 5px solid #ccc; font: 16px/26px Serif; overflow: auto; padding: 10px; } .small-box { border: 1px solid #aaa;margin: 10px; padding: 10px; display: flex; align-items: center; } .small-box img { margin-left: 10px; max-width: 50px;max-height: 50px; }
